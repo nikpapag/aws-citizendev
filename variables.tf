@@ -72,7 +72,7 @@ variable "accountid" {
 
 variable "apikey" {
     type = string
-    descriptionn = "harness api key"
+    description = "harness api key"
 
 }
 
